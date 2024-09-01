@@ -12,7 +12,9 @@ body {
     align-items: center;
     height: 100vh;
     width: 100vw;
-    background-image: url('/previsao-do-tempo-2.0/img/imgbackground.jpg');
+    background-image: url('/img/imgbackground.jpg');
+    background-size: cover;
+    background-position: center;
 }
 
 .bigBox {
